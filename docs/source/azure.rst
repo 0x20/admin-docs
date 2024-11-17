@@ -34,3 +34,20 @@ or login to a specific VM using
   az ssh vm --resource-group otherservers --name generic-server
 
 .. _`install it`: https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
+
+Managing permissions
+====================
+
+.. note::
+   This is a board-level function.
+
+The entra console is available at https://entra.microsoft.com/
+
+Board members should simply be added to the Board group; this grants all of the necessary permissions (i.e., *everything*).
+
+In general, the permission flow is:
+
+* Users are assigned to groups
+* Groups are granted permissions on one or more objects
+
+
