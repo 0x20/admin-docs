@@ -15,7 +15,7 @@ This includes:
 
 
 Accessing VMs
-=============
+-------------
 
 Access is provided through the Azure CLI. You will need to `install it`_ before you continue.
 Once you have the Azure CLI installed, login via ``az login`` and then install the extension using
@@ -36,7 +36,7 @@ or login to a specific VM using
 .. _`install it`: https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
 
 Managing permissions
-====================
+--------------------
 
 .. note::
    This is a board-level function.
