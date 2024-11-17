@@ -17,5 +17,4 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   azure
