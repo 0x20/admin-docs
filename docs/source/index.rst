@@ -1,13 +1,12 @@
-Welcome to Lumache's documentation!
-===================================
+Hackerspace.Gent Administration
+===============================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Hackerspace Gent has a large and growing number of moving parts. As our board
+changes yearly, oral tradition is no longer enough to keep everybody up to
+date.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thus, we have created this documentation site to let folks know what needs to
+be done, where to find resources, and how to access them.
 
 .. note::
 
